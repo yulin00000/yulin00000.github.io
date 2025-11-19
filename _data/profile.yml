@@ -43,15 +43,15 @@ education:
   position: B.A. in 
   date: Sep. 2010 - Jun. 2014
 
- #experience:
- #- name: Tongji University
- #  logo: /assets/images/badges/tongji_logo.png
- #  position: Post-Doctoral Researcher
- #  date: Mar. 2022 - Current
- #- name: Hubei University of Technology
- #  logo: /assets/images/badges/hbut_logo.png
- #  position: Assistant Professor
- #  date: Mar. 2022 - Current
+ experience:
+ - name: Tongji University
+   logo: /assets/images/badges/tongji_logo.png
+   position: Post-Doctoral Researcher
+   date: Mar. 2022 - Current
+ - name: Hubei University of Technology
+   logo: /assets/images/badges/hbut_logo.png
+   position: Assistant Professor
+   date: Mar. 2022 - Current
 
 awards:
 - name: Award Name 2
