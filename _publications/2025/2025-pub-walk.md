@@ -18,7 +18,7 @@ authors:
   - Chen Siyi
   - Wu Xinyu
   - Chen Dong
-  - <b>Tian Yulin<\b>
+  - <b>Tian Yulin</b>
   - Wang Qi
   - An Pengcheng
 links:
