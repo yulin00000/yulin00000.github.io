@@ -1,18 +1,17 @@
 ---
-title:          "The Transmutation of Perception: Research of Attention and Visual Guidance in Virtual Reality Context¸"
-date:           2016-03-01 00:01:00 +0100
+title:          "The Transmutation of Perception: Research of Attention and Visual Guidance in Virtual Reality Context"
+date:           2018-01-01 00:01:00 +0100
 selected:       false
-pub:            "Social Science Review"
-pub_date:       "2016"
-pub_last:       '<span class="badge badge-pill badge-publication badge-light">Vol. 47, No. 1</span>'
+pub:            "CHI PLAY Companion Extended Abstracts"
+pub_date:       "2018"
+pub_last:
 semantic_scholar_id:
 abstract: >-
-  This study compares unemployment benefit reforms in Belgium and Denmark,
-  showing how political coalitions reconciled welfare generosity with labor-market activation
-  to overcome the “welfare without work” dilemma.
+  This paper investigates how attention and visual guidance operate within virtual reality
+  environments, examining how perceptual cues shape user focus and interactive experience.
 cover:
 authors:
-  - Jaewook Lee
+  - Tian Yulin
 links:
-  Article: https://kiss.kstudy.com/Detail/Ar?key=3441554
+  Article: https://dl.acm.org/doi/10.1145/3242671.3242696
 ---
