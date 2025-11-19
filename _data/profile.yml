@@ -30,33 +30,33 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Communication University of China
-  logo: /assets/images/badges/cuc_logo.jpg
-  position: Ph.D. in Digital Media Arts
-  date: Sep. 2017 - Jun. 2021
-- name: Communication University of China
-  logo: /assets/images/badges/cuc_logo.jpg
-  position: M.A. in Game Design
-  date: Sep. 2010 - Jun. 2014
-- name: Communication University of China
-  logo: /assets/images/badges/cuc_logo.jpg
-  position: B.A. in 
-  date: Sep. 2010 - Jun. 2014
+  - name: Communication University of China
+    logo: /assets/images/badges/cuc_logo.jpg
+    position: Ph.D. in Digital Media Arts
+    date: Sep. 2017 - Jun. 2021
+  - name: Communication University of China
+    logo: /assets/images/badges/cuc_logo.jpg
+    position: M.A. in Game Design
+    date: Sep. 2010 - Jun. 2014
+  - name: Communication University of China
+    logo: /assets/images/badges/cuc_logo.jpg
+    position: B.A. in 
+    date: Sep. 2010 - Jun. 2014
 
- experience:
- - name: Tongji University
-   logo: /assets/images/badges/tongji_logo.png
-   position: Post-Doctoral Researcher
-   date: Mar. 2022 - Current
- - name: Hubei University of Technology
-   logo: /assets/images/badges/hbut_logo.png
-   position: Assistant Professor
-   date: Mar. 2022 - Current
+experience:
+  - name: Tongji University
+    logo: /assets/images/badges/tongji_logo.png
+    position: Post-Doctoral Researcher
+    date: Mar. 2022 - Current
+  - name: Hubei University of Technology
+    logo: /assets/images/badges/hbut_logo.png
+    position: Assistant Professor
+    date: Mar. 2022 - Current
 
 awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+  - name: Award Name 2
+    date: 2024
+  - name: Award Name 1 
+    date: 2021
+  - name: A quick brown fox jumps over the lazy dog and runs away award
+    date: 2021
