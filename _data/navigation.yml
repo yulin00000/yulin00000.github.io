@@ -7,9 +7,9 @@ pages:
   url: /publications
 - name: Research
   url: /research.html
-- name: Translations
-  url: /translations.html
+#- name: Translations
+#  url: /translations.html
 - name: Teaching
   url: /teaching.html
-#- name: Showcase
-#  url: /showcase
+- name: Showcase
+  url: /showcase
