@@ -1,18 +1,20 @@
 ---
-title:          "Mapping Energy Poverty Policies Across the EU: Pathways Towards Eco-social Integration?"
-date:           2025-02-01 00:01:00 +0100
+title:          "Collective Day-Dreaming and the Purchase of Parasocial Romance: A Preliminary Study on Parasocial Intimacy in Otome Game 'Cos Weituo' (Cosplay Commission Date)"
+date:           2025-04-25 00:01:00 +0100
 selected:       false
-pub:            "SciencesPo LIEPP Working Paper"
+pub:            "Companion Publication of the 2025 Conference on Computer-Supported Cooperative Work and Social Computing"
 pub_date:       "2025"
-pub_last:       '<span class="badge badge-pill badge-publication badge-secondary">Working Paper No. 176</span>'
+pub_last:
 semantic_scholar_id:
 abstract: >-
-  This paper maps how EU member states address energy poverty through social and environmental policies.
-  It highlights emerging pathways toward eco-social integration in tackling the climate–inequality nexus.
+  This preliminary study examines how players engage in collective day-dreaming and develop
+  parasocial intimacy through the otome game “Cos Weituo,” especially in the context of
+  cosplay commission interactions. The research explores how imagined relational closeness
+  shapes purchasing behavior and emotional investment.
 cover:
 authors:
-  - Matteo Mandelli
-  - Jaewook Lee
+  - <b>Tian Yulin</b>
+  - Wang Jian
 links:
-  Working Paper: https://sciencespo.hal.science/hal-04976555
+  Article: https://dl.acm.org/doi/abs/10.1145/3715070.3749280
 ---
