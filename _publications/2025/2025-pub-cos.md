@@ -1,7 +1,7 @@
 ---
 title:          "Collective Day-Dreaming and the Purchase of Parasocial Romance: A Preliminary Study on Parasocial Intimacy in Otome Game 'Cos Weituo' (Cosplay Commission Date)"
 date:           2025-04-25 00:01:00 +0100
-selected:       false
+selected:       true
 pub:            "Companion Publication of the 2025 Conference on Computer-Supported Cooperative Work and Social Computing"
 pub_date:       "2025"
 pub_last:
