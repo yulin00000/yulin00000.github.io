@@ -1,7 +1,7 @@
 ---
 title:          "The Transmutation of Perception: Research of Attention and Visual Guidance in Virtual Reality Context"
 date:           2018-10-01 00:01:00 +0100
-selected:       false
+selected:       true
 pub:            "CHI PLAY Companion Extended Abstracts"
 pub_date:       "2018"
 pub_last:
