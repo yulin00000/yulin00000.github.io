@@ -1,7 +1,7 @@
 ---
 title:          "Walk in Their Shoes to Navigate Your Own Path: Learning About Procrastination Through A Serious Game"
 date:           2025-04-25 00:01:00 +0100
-selected:       false
+selected:       true
 pub:            "Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems"
 pub_date:       "2025"
 pub_last:
