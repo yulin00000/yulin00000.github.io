@@ -38,10 +38,10 @@ education:
     logo: /assets/images/badges/cuc_logo.jpg
     position: M.A. in Game Design
     date: Sep. 2010 - Jun. 2014
-  - name: Communication University of China
-    logo: /assets/images/badges/cuc_logo.jpg
-    position: B.A. in 
-    date: Sep. 2010 - Jun. 2014
+  - name: Central China Normal University
+    logo: /assets/images/badges/ccnu_logo.png
+    position: B.A. in Animation
+    date: Sep. 2006 - Jun. 2010
 
 experience:
   - name: Tongji University
